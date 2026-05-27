@@ -22,6 +22,10 @@ AI Interview helps candidates simulate job interviews in a more practical way th
 
 This project is built for learners, job seekers, and contributors who want to explore voice interfaces, local AI tooling, interview coaching workflows, and full-stack product development.
 
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/1AeIqrCT9jw/maxresdefault.jpg)](https://www.youtube.com/watch?v=1AeIqrCT9jw)
+
 ## Why this project
 
 - Personalized mock interviews based on your skills and target role
