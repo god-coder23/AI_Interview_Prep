@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Whisper.cpp (keep the binary, not source)
+backend/whisper.cpp/
+!backend/whisper.cpp/models/  # keep models if needed
+!backend/whisper.cpp/main     # keep compiled binary if exists
+
+# Frontend (if separate project)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Audio files
+*.wav
+*.mp3
+uploads/
+audio/
+
+# OS files
+.DS_Store
+*.log
+
+# Environment
+.env
+.env.local
