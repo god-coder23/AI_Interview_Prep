@@ -1,7 +1,0 @@
-.env
-node_modulesuploads/
-public/audio/
-.DS_Store
-whisper.cpp/
-node_modules/
-uploads/
