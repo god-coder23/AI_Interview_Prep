@@ -41,23 +41,25 @@ This project is built for learners, job seekers, and contributors who want to ex
 
 ## Screenshots
 
-Add your product screenshots here after uploading them to the repository.
+<p align="center">
+  <img src="./screenshots/ss1.png" alt="Home screen" width="900">
+</p>
 
-```md
-![Home](./screenshots/ss1.png)
-![Loading Page](./screenshots/ss2.png)
-![Interview Setup](./screenshots/ss3.png)
-![Live Interview](./screenshots/ss4.png)
-![Feedback Summary](./screenshots/ss5.png)
-```
+<p align="center">
+  <img src="./screenshots/ss2.png" alt="Loading screen" width="900">
+</p>
 
-Recommended screenshots:
+<p align="center">
+  <img src="./screenshots/ss3.png" alt="Interview setup" width="900">
+</p>
 
-- Landing page
-- Interview setup form
-- Live interview session
-- Answer feedback state
-- Final score and summary view
+<p align="center">
+  <img src="./screenshots/ss4.png" alt="Live interview session" width="900">
+</p>
+
+<p align="center">
+  <img src="./screenshots/ss5.png" alt="Feedback summary" width="900">
+</p>
 
 ## Tech stack
 
